@@ -8,11 +8,21 @@
 - **深度兼容**：支持人大研究生系统 (yjs2.ruc.edu.cn) 的多层 Iframe 嵌套结构。
 - **一键操作**：在页面底部原生的“提交”按钮旁注入红色快捷按钮。
 
-![alt text](docs/image.png)
+![](https://raw.githubusercontent.com/AntiO2/RUC-Evaluation-Helper/refs/heads/master/docs/image.png)
 
 ## 安装方式
 1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)。
-2. 点击 [安装脚本](https://greasyfork.org/zh-CN/scripts/561988-%E4%BA%BA%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%84%E6%95%99) 或直接将 `ruc-evaluation.user.js` 的代码粘贴进插件。
+2. 如果需要，根据 [官方指示](https://www.tampermonkey.net/faq.php#Q209) 开启用户脚本权限
+3. 点击 [安装脚本](https://update.greasyfork.org/scripts/561988/%E4%BA%BA%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%84%E6%95%99.user.js) 或直接将 `ruc-evaluation.user.js` 的代码粘贴进插件。
 
 ## 免责声明
-本工具仅用于学术交流，请在填写前简要确认自动生成的评语是否符合实际情况。
+本工具仅用于学习交流使用，请在填写前简要确认自动生成的评语是否符合实际情况。
+
+## 关键词
+人大评教脚本, RUC研究生评教, 研究生系统自动填表, 中国人民大学评教助手, 自动填写评语, 评教一键提交, 随机评语库, 评教插件.
+
+---
+
+**GitHub 仓库**: [AntiO2/RUC-Evaluation-Helper](https://github.com/AntiO2/RUC-Evaluation-Helper)  
+
+*注：本脚本仅供学习交流使用，请在填报时根据课程实际情况进行调整。*
