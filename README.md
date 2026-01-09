@@ -13,7 +13,7 @@
 ## 安装方式
 1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)。
 2. 如果需要，根据 [官方指示](https://www.tampermonkey.net/faq.php#Q209) 开启用户脚本权限
-3. 点击 [安装脚本](https://update.greasyfork.org/scripts/561988/%E4%BA%BA%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%84%E6%95%99.user.js) 或直接将 `ruc-evaluation.user.js` 的代码粘贴进插件。
+3. 点击 [安装脚本](https://greasyfork.org/zh-CN/scripts/561988-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6-ruc-%E4%BA%BA%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%8A%A8%E8%AF%84%E6%95%99%E5%8A%A9%E6%89%8B-%E9%9A%8F%E6%9C%BA%E8%AF%84%E8%AF%AD-%E9%AB%98%E5%88%86%E4%B8%80%E9%94%AE%E5%A1%AB%E6%8A%A5) 或直接将 `ruc-evaluation.user.js` 的代码粘贴进插件。
 
 ## 免责声明
 本工具仅用于学习交流使用，请在填写前简要确认自动生成的评语是否符合实际情况。
